@@ -1,3 +1,5 @@
+Free You can Modify
+
 ☕ Developer Focusing – Coffee Timer
 
 A beautiful, minimalist focus timer for developers, inspired by a cup of hot coffee ☕
