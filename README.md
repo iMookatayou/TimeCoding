@@ -7,7 +7,7 @@ Designed to help you stay focused while coding, studying, or building side proje
 
 This project is free & open-source — feel free to use, modify, and share.
 
-📦 Installation
+Installation
 git clone https://github.com/your-username/developer-focusing
 cd developer-focusing
 npm install
